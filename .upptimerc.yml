@@ -60,7 +60,7 @@ status-website:
   logoUrl: https://avatars3.githubusercontent.com/u/76779646?s=96&v=4
   name: Upptime WEB Vlaanderen
   introTitle: "WEB Vlaanderen **Upptime**"
-  introMessage: **Real-time** loggen van websites
+  introMessage: "**Real-time** loggen van websites"
   navbar:
     - title: Status
       href: /
