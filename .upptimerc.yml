@@ -39,7 +39,7 @@ status-website:
   cname: upptime.web.vlaanderen
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://www.web.vlaanderen//assets/images/webvlaanderen_logo.png
+  logoUrl: https://avatars3.githubusercontent.com/u/76779646?s=96&v=4
   name: Upptime WEB Vlaanderen
   introTitle: "WEB Vlaanderen **Upptime**"
   introMessage: **Real-time** loggen van websites
