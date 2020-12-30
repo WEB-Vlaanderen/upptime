@@ -10,6 +10,27 @@ sites:
     url: https://www.albert-vastgoed.be
   - name: Immo Acasa
     url: https://www.immoacasa.be
+  - name: Aquis
+    url: https://www.aquis.be
+  - name: GetFullyLet
+    url: https://www.getfullylet.com
+  - name: Greenbuiling Projects
+    url: https://www.greenbuildingprojects.be
+  - name: ApartGent
+    url: https://www.apartgent.be
+  - name: Gimpex
+    url: https://www.gimpex.be
+  - name: CTWLK
+    url: https://www.ctwlk.eu
+  - name: Fleur Verbeek
+    url: https://www.fleurverbeekdressage.com
+  - name: Dierenarts Groot & Klein
+    url: http://www.dapgrootenklein.be
+  - name: Valkennest
+    url: https://www.valkennest.be
+  - name: David Van Hulle - Thuisverpleging
+    url: https://www.davidvanhulle.be
+    
 assignees: # Users to assign downtime issues (optional)
   - webvlaanderen
 
@@ -19,7 +40,7 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime WEB Vlaanderen
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
