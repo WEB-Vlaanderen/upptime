@@ -30,6 +30,24 @@ sites:
     url: https://www.valkennest.be
   - name: David Van Hulle - Thuisverpleging
     url: https://www.davidvanhulle.be
+  - name: Hydra Gent
+    url: https://www.hydra-gent.be
+  - name: Segway Brugge
+    url: https://www.segway-brugge.be
+  - name: Hippo Revue
+    url: https://www.hipporevue.be
+  - name: Hippo Koets
+    url: https://koets.sightseeingbrugge.com
+  - name: Equiphys
+    url: https://www.equiphys.be
+  - name: Furnished Apartments Gent
+    url: https://www.furnishedapartments-gent.be
+  - name: YDS Hasselt
+    url: https://www.ydshasselt.be
+  - name: Tucasa
+    url: https://www.tucasa.be
+  - name: Piano Lab
+    url: https://www.piano-lab.be
     
 assignees: # Users to assign downtime issues (optional)
   - webvlaanderen
