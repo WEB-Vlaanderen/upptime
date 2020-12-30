@@ -46,8 +46,6 @@ sites:
     url: https://www.ydshasselt.be
   - name: Tucasa
     url: https://www.tucasa.be
-  - name: Piano Lab
-    url: https://www.piano-lab.be
     
 assignees: # Users to assign downtime issues (optional)
   - webvlaanderen
