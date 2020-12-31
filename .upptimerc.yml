@@ -20,7 +20,7 @@ sites:
     url: https://www.aquis.be
   - name: GetFullyLet
     url: https://www.getfullylet.com
-  - name: Greenbuiling Projects
+  - name: Greenbuilding Projects
     url: https://www.greenbuildingprojects.be
   - name: ApartGent
     url: https://www.apartgent.be
@@ -62,6 +62,10 @@ sites:
     url: https://www.createdloppem.be
   - name: Musicovideo
     url: https://www.musicovideo.com
+  - name: NSLV
+    url: https://www.nlsv.be
+  - name: STKG
+    url: https://www.stkg.be
     
     
 assignees: # Users to assign downtime issues (optional)
