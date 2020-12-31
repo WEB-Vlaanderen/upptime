@@ -6,8 +6,14 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: WEB Vlaanderen
     url: https://www.web.vlaanderen
+  - name: Coach WEB Vlaanderen
+    url: https://coach.web.vlaanderen
   - name: Albert Vastgoed
     url: https://www.albert-vastgoed.be
+  - name: Albert Boutique
+    url: https://www.albert.boutique
+  - name: Albert Vastgoed - Residentie Madison
+    url: https://www.residentiemadison.be
   - name: Immo Acasa
     url: https://www.immoacasa.be
   - name: Aquis
@@ -46,6 +52,17 @@ sites:
     url: https://www.ydshasselt.be
   - name: Tucasa
     url: https://www.tucasa.be
+  - name: Mandus
+    url: https://www.mandusdierickx.be
+  - name: Lexington
+    url: https://www.lexington.be
+  - name: De Scheldepolder
+    url: https://www.descheldepolder.be
+  - name: Created Loppem
+    url: https://www.createdloppem.be
+  - name: Musicovideo
+    url: https://www.musicovideo.com
+    
     
 assignees: # Users to assign downtime issues (optional)
   - webvlaanderen
