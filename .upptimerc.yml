@@ -66,6 +66,8 @@ sites:
     url: https://www.nlsv.be
   - name: STKG
     url: https://www.stkg.be
+  - name: VLS Horses
+    url: https://www.vls-horses.be
     
     
 assignees: # Users to assign downtime issues (optional)
