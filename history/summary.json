@@ -186,10 +186,10 @@
     "url": "https://www.gimpex.be",
     "icon": "https://favicons.githubusercontent.com/www.gimpex.be",
     "slug": "gimpex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2011,
@@ -197,7 +197,9 @@
     "timeWeek": 2024,
     "timeMonth": 1988,
     "timeYear": 2011,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-23": 1
+    }
   },
   {
     "name": "CTWLK",
@@ -596,11 +598,11 @@
     "icon": "https://favicons.githubusercontent.com/www.vls-horses.be",
     "slug": "vls-horses",
     "status": "up",
-    "uptime": "80.37%",
+    "uptime": "80.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "80.37%",
-    "uptimeYear": "80.37%",
+    "uptimeMonth": "80.56%",
+    "uptimeYear": "80.56%",
     "time": 839,
     "timeDay": 684,
     "timeWeek": 813,
