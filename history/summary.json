@@ -250,19 +250,19 @@
     "url": "https://www.fleurverbeekdressage.com",
     "icon": "https://favicons.githubusercontent.com/www.fleurverbeekdressage.com",
     "slug": "fleur-verbeek",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 875,
-    "timeWeek": 853,
-    "timeMonth": 829,
-    "timeYear": 790,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
+    "time": 792,
+    "timeDay": 915,
+    "timeWeek": 869,
+    "timeMonth": 834,
+    "timeYear": 792,
     "dailyMinutesDown": {
-      "2021-05-03": 1
+      "2021-05-03": 34
     }
   },
   {
