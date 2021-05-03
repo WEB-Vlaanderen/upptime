@@ -250,18 +250,20 @@
     "url": "https://www.fleurverbeekdressage.com",
     "icon": "https://favicons.githubusercontent.com/www.fleurverbeekdressage.com",
     "slug": "fleur-verbeek",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 1019,
-    "timeWeek": 871,
-    "timeMonth": 832,
-    "timeYear": 791,
-    "dailyMinutesDown": {}
+    "time": 790,
+    "timeDay": 875,
+    "timeWeek": 853,
+    "timeMonth": 829,
+    "timeYear": 790,
+    "dailyMinutesDown": {
+      "2021-05-03": 1
+    }
   },
   {
     "name": "Dierenarts Groot & Klein",
