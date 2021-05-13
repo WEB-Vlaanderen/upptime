@@ -419,10 +419,10 @@
     "url": "https://www.furnishedapartmentsgent.be",
     "icon": "https://favicons.githubusercontent.com/www.furnishedapartmentsgent.be",
     "slug": "furnished-apartments-gent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 3499,
@@ -431,7 +431,7 @@
     "timeMonth": 3875,
     "timeYear": 3499,
     "dailyMinutesDown": {
-      "2021-05-13": 9,
+      "2021-05-13": 10,
       "2021-04-22": 18,
       "2020-12-30": 14
     }
