@@ -1,7 +1,7 @@
 url: https://www.lexington.be
-status: up
-code: 200
-responseTime: 650
-lastUpdated: 2021-05-17T23:23:37.938Z
+status: down
+code: 503
+responseTime: 20567
+lastUpdated: 2021-05-18T08:33:57.220Z
 startTime: Thu Dec 31 2020 09:52:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
