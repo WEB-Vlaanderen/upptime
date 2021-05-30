@@ -529,19 +529,19 @@
     "url": "https://www.descheldepolder.be",
     "icon": "https://favicons.githubusercontent.com/www.descheldepolder.be",
     "slug": "de-scheldepolder",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3556,
-    "timeDay": 9382,
-    "timeWeek": 4414,
-    "timeMonth": 3529,
-    "timeYear": 3556,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
+    "time": 3564,
+    "timeDay": 7072,
+    "timeWeek": 4458,
+    "timeMonth": 3569,
+    "timeYear": 3564,
     "dailyMinutesDown": {
-      "2021-05-30": 1
+      "2021-05-30": 49
     }
   },
   {
