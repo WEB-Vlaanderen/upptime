@@ -218,10 +218,10 @@
     "url": "https://www.gimpex.be",
     "icon": "https://favicons.githubusercontent.com/www.gimpex.be",
     "slug": "gimpex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1952,
@@ -230,6 +230,7 @@
     "timeMonth": 1874,
     "timeYear": 1952,
     "dailyMinutesDown": {
+      "2021-08-08": 1,
       "2021-03-08": 28,
       "2021-03-03": 61,
       "2021-02-23": 26
