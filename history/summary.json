@@ -405,19 +405,19 @@
     "url": "https://www.segway-brugge.be",
     "icon": "https://favicons.githubusercontent.com/www.segway-brugge.be",
     "slug": "segway-brugge",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "93.27%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.78%",
     "uptimeYear": "99.98%",
-    "time": 2888,
-    "timeDay": 13958,
-    "timeWeek": 7082,
-    "timeMonth": 4068,
-    "timeYear": 2888,
+    "time": 2883,
+    "timeDay": 11493,
+    "timeWeek": 6587,
+    "timeMonth": 3996,
+    "timeYear": 2883,
     "dailyMinutesDown": {
-      "2021-10-04": 87
+      "2021-10-04": 97
     }
   },
   {
