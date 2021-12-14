@@ -452,10 +452,10 @@
     "url": "https://www.segway-brugge.be",
     "icon": "https://favicons.githubusercontent.com/www.segway-brugge.be",
     "slug": "segway-brugge",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.93%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "98.92%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.96%",
     "time": 2865,
@@ -464,7 +464,7 @@
     "timeMonth": 2705,
     "timeYear": 2865,
     "dailyMinutesDown": {
-      "2021-12-14": 108,
+      "2021-12-14": 109,
       "2021-10-04": 97
     }
   },
