@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.77%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 871,
     "timeDay": 1102,
-    "timeWeek": 997,
+    "timeWeek": 991,
     "timeMonth": 889,
-    "timeYear": 871,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2021-12-24": 23,
       "2021-10-14": 13
@@ -43,10 +43,10 @@
     "url": "https://www.albert-vastgoed.be",
     "icon": "https://favicons.githubusercontent.com/www.albert-vastgoed.be",
     "slug": "albert-vastgoed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "99.83%",
     "time": 1105,
@@ -55,6 +55,7 @@
     "timeMonth": 1313,
     "timeYear": 1104,
     "dailyMinutesDown": {
+      "2021-12-31": 2,
       "2021-12-22": 24,
       "2021-12-13": 16,
       "2021-12-12": 33,
@@ -90,7 +91,7 @@
     "timeDay": 1399,
     "timeWeek": 1301,
     "timeMonth": 1581,
-    "timeYear": 1523,
+    "timeYear": 1522,
     "dailyMinutesDown": {
       "2021-12-22": 22,
       "2021-12-12": 31,
@@ -118,10 +119,10 @@
     "url": "https://www.residentiemadison.be",
     "icon": "https://favicons.githubusercontent.com/www.residentiemadison.be",
     "slug": "albert-vastgoed-residentie-madison",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.26%",
     "uptimeYear": "99.83%",
     "time": 865,
@@ -130,6 +131,7 @@
     "timeMonth": 1069,
     "timeYear": 865,
     "dailyMinutesDown": {
+      "2021-12-31": 1,
       "2021-12-22": 21,
       "2021-12-12": 30,
       "2021-12-08": 67,
@@ -163,7 +165,7 @@
     "timeDay": 1689,
     "timeWeek": 1483,
     "timeMonth": 1492,
-    "timeYear": 1256,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2021-07-26": 30
     }
@@ -203,7 +205,7 @@
     "timeDay": 2082,
     "timeWeek": 1810,
     "timeMonth": 1687,
-    "timeYear": 1393,
+    "timeYear": 1394,
     "dailyMinutesDown": {
       "2021-09-07": 18,
       "2021-09-04": 22,
@@ -275,7 +277,7 @@
     "timeDay": 2094,
     "timeWeek": 2141,
     "timeMonth": 1823,
-    "timeYear": 2056,
+    "timeYear": 2058,
     "dailyMinutesDown": {
       "2021-10-29": 17,
       "2021-09-06": 19
@@ -296,7 +298,7 @@
     "timeDay": 1225,
     "timeWeek": 957,
     "timeMonth": 1479,
-    "timeYear": 1951,
+    "timeYear": 1953,
     "dailyMinutesDown": {
       "2021-08-08": 29,
       "2021-03-08": 28,
@@ -319,7 +321,7 @@
     "timeDay": 1823,
     "timeWeek": 3829,
     "timeMonth": 2431,
-    "timeYear": 2689,
+    "timeYear": 2691,
     "dailyMinutesDown": {
       "2021-09-27": 25,
       "2021-09-22": 19,
@@ -448,7 +450,7 @@
     "timeDay": 1062,
     "timeWeek": 935,
     "timeMonth": 860,
-    "timeYear": 912,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -466,7 +468,7 @@
     "timeDay": 1802,
     "timeWeek": 1533,
     "timeMonth": 2087,
-    "timeYear": 2802,
+    "timeYear": 2804,
     "dailyMinutesDown": {
       "2021-12-14": 143,
       "2021-10-04": 97
@@ -487,7 +489,7 @@
     "timeDay": 804,
     "timeWeek": 715,
     "timeMonth": 695,
-    "timeYear": 705,
+    "timeYear": 704,
     "dailyMinutesDown": {
       "2021-09-30": 67
     }
@@ -530,7 +532,7 @@
     "timeDay": 3518,
     "timeWeek": 3209,
     "timeMonth": 3002,
-    "timeYear": 2996,
+    "timeYear": 3001,
     "dailyMinutesDown": {}
   },
   {
@@ -542,13 +544,13 @@
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 3341,
     "timeDay": 4469,
     "timeWeek": 3213,
-    "timeMonth": 3225,
-    "timeYear": 3342,
+    "timeMonth": 3190,
+    "timeYear": 3343,
     "dailyMinutesDown": {
       "2021-11-30": 32,
       "2021-11-29": 16,
@@ -593,7 +595,7 @@
     "timeDay": 1178,
     "timeWeek": 1045,
     "timeMonth": 1029,
-    "timeYear": 993,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2021-05-06": 10
     }
@@ -635,7 +637,7 @@
     "timeDay": 1602,
     "timeWeek": 1414,
     "timeMonth": 1128,
-    "timeYear": 1452,
+    "timeYear": 1451,
     "dailyMinutesDown": {
       "2021-12-19": 37,
       "2021-10-17": 30,
@@ -676,7 +678,7 @@
     "timeDay": 4007,
     "timeWeek": 3734,
     "timeMonth": 3670,
-    "timeYear": 3679,
+    "timeYear": 3680,
     "dailyMinutesDown": {
       "2021-07-24": 194,
       "2021-07-02": 49,
@@ -699,7 +701,7 @@
     "timeDay": 5897,
     "timeWeek": 5172,
     "timeMonth": 5652,
-    "timeYear": 5242,
+    "timeYear": 5251,
     "dailyMinutesDown": {
       "2021-10-29": 30,
       "2021-10-04": 292,
@@ -723,7 +725,7 @@
     "timeDay": 2037,
     "timeWeek": 1926,
     "timeMonth": 1848,
-    "timeYear": 2032,
+    "timeYear": 2033,
     "dailyMinutesDown": {
       "2021-06-25": 20,
       "2021-01-14": 55
