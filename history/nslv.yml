@@ -1,7 +1,7 @@
 url: https://www.nlsv.be
-status: down
-code: 503
-responseTime: 10548
-lastUpdated: 2022-02-04T03:41:37.059Z
+status: up
+code: 200
+responseTime: 485
+lastUpdated: 2022-02-04T03:53:59.751Z
 startTime: Thu Dec 31 2020 17:21:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
