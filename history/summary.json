@@ -91,7 +91,7 @@
     "timeDay": 1365,
     "timeWeek": 1319,
     "timeMonth": 1264,
-    "timeYear": 1497,
+    "timeYear": 1498,
     "dailyMinutesDown": {
       "2021-12-22": 22,
       "2021-12-12": 31,
@@ -166,7 +166,7 @@
     "timeDay": 1781,
     "timeWeek": 1484,
     "timeMonth": 1494,
-    "timeYear": 1351,
+    "timeYear": 1353,
     "dailyMinutesDown": {
       "2021-07-26": 30
     }
@@ -206,7 +206,7 @@
     "timeDay": 1631,
     "timeWeek": 1577,
     "timeMonth": 1925,
-    "timeYear": 1465,
+    "timeYear": 1466,
     "dailyMinutesDown": {
       "2021-09-07": 18,
       "2021-09-04": 22,
@@ -278,7 +278,7 @@
     "timeDay": 2661,
     "timeWeek": 2198,
     "timeMonth": 2171,
-    "timeYear": 2046,
+    "timeYear": 2045,
     "dailyMinutesDown": {
       "2021-10-29": 17,
       "2021-09-06": 19
@@ -299,7 +299,7 @@
     "timeDay": 886,
     "timeWeek": 1509,
     "timeMonth": 1617,
-    "timeYear": 1902,
+    "timeYear": 1904,
     "dailyMinutesDown": {
       "2022-01-16": 15,
       "2021-08-08": 29,
@@ -323,7 +323,7 @@
     "timeDay": 5052,
     "timeWeek": 2241,
     "timeMonth": 2534,
-    "timeYear": 2600,
+    "timeYear": 2596,
     "dailyMinutesDown": {
       "2021-09-27": 25,
       "2021-09-22": 19,
@@ -369,18 +369,19 @@
     "url": "http://www.dapgrootenklein.be",
     "icon": "https://favicons.githubusercontent.com/www.dapgrootenklein.be",
     "slug": "dierenarts-groot-and-klein",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
     "time": 1008,
-    "timeDay": 3942,
+    "timeDay": 750,
     "timeWeek": 2271,
     "timeMonth": 1220,
-    "timeYear": 1001,
+    "timeYear": 1002,
     "dailyMinutesDown": {
+      "2022-02-11": 1,
       "2022-02-10": 18,
       "2022-02-01": 16,
       "2022-01-15": 28,
@@ -426,7 +427,7 @@
     "timeDay": 2078,
     "timeWeek": 1481,
     "timeMonth": 1532,
-    "timeYear": 1503,
+    "timeYear": 1501,
     "dailyMinutesDown": {}
   },
   {
@@ -462,7 +463,7 @@
     "timeDay": 2280,
     "timeWeek": 1934,
     "timeMonth": 1946,
-    "timeYear": 2712,
+    "timeYear": 2711,
     "dailyMinutesDown": {
       "2021-12-14": 143,
       "2021-10-04": 97
@@ -526,7 +527,7 @@
     "timeDay": 3746,
     "timeWeek": 2919,
     "timeMonth": 3066,
-    "timeYear": 3027,
+    "timeYear": 3029,
     "dailyMinutesDown": {}
   },
   {
@@ -634,12 +635,12 @@
     "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.85%",
     "time": 1463,
     "timeDay": 1654,
     "timeWeek": 1606,
-    "timeMonth": 1612,
+    "timeMonth": 1620,
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2022-01-25": 20,
@@ -679,7 +680,7 @@
     "timeDay": 3925,
     "timeWeek": 3623,
     "timeMonth": 3608,
-    "timeYear": 3685,
+    "timeYear": 3687,
     "dailyMinutesDown": {
       "2021-07-24": 194,
       "2021-07-02": 49,
@@ -702,7 +703,7 @@
     "timeDay": 7695,
     "timeWeek": 8371,
     "timeMonth": 7575,
-    "timeYear": 5676,
+    "timeYear": 5686,
     "dailyMinutesDown": {
       "2022-02-09": 37,
       "2021-10-29": 30,
@@ -726,7 +727,7 @@
     "timeDay": 2625,
     "timeWeek": 2320,
     "timeMonth": 2176,
-    "timeYear": 2019,
+    "timeYear": 2020,
     "dailyMinutesDown": {
       "2022-01-25": 22,
       "2021-06-25": 20
@@ -745,9 +746,9 @@
     "uptimeYear": "99.84%",
     "time": 1160,
     "timeDay": 992,
-    "timeWeek": 2011,
+    "timeWeek": 1010,
     "timeMonth": 1895,
-    "timeYear": 1190,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2022-02-05": 37,
       "2022-02-02": 26,
@@ -787,7 +788,7 @@
     "timeDay": 2281,
     "timeWeek": 1788,
     "timeMonth": 1739,
-    "timeYear": 1705,
+    "timeYear": 1706,
     "dailyMinutesDown": {
       "2021-07-27": 27,
       "2021-02-17": 15
@@ -803,7 +804,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeYear": "99.94%",
     "time": 1005,
     "timeDay": 1632,
     "timeWeek": 1700,
