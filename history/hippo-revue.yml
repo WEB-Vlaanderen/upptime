@@ -1,7 +1,7 @@
 url: https://www.hipporevue.be
-status: up
-code: 200
-responseTime: 926
-lastUpdated: 2022-02-27T23:18:38.996Z
+status: down
+code: 502
+responseTime: 449
+lastUpdated: 2022-02-28T23:15:17.810Z
 startTime: Wed Dec 30 2020 14:37:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
