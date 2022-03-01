@@ -1,7 +1,7 @@
 url: https://www.tucasa.be
-status: up
-code: 200
-responseTime: 1161
-lastUpdated: 2022-03-01T23:19:22.402Z
+status: down
+code: 502
+responseTime: 643
+lastUpdated: 2022-03-01T23:45:21.172Z
 startTime: Wed Dec 30 2020 14:38:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
