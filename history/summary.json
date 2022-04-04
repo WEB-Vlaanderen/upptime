@@ -130,7 +130,7 @@
     "uptimeYear": "99.81%",
     "time": 903,
     "timeDay": 529,
-    "timeWeek": 701,
+    "timeWeek": 686,
     "timeMonth": 863,
     "timeYear": 934,
     "dailyMinutesDown": {
@@ -283,7 +283,7 @@
     "timeDay": 2146,
     "timeWeek": 2460,
     "timeMonth": 2127,
-    "timeYear": 2022,
+    "timeYear": 2023,
     "dailyMinutesDown": {
       "2021-10-29": 17,
       "2021-09-06": 19
@@ -641,10 +641,10 @@
     "url": "https://www.lexington.be",
     "icon": "https://favicons.githubusercontent.com/www.lexington.be",
     "slug": "lexington",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1471,
@@ -653,6 +653,7 @@
     "timeMonth": 1531,
     "timeYear": 1365,
     "dailyMinutesDown": {
+      "2022-04-04": 1,
       "2022-01-25": 20,
       "2022-01-24": 54,
       "2022-01-11": 23,
