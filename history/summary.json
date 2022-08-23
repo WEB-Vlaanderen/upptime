@@ -229,11 +229,11 @@
     "url": "https://www.greenbuildingprojects.be",
     "icon": "https://favicons.githubusercontent.com/www.greenbuildingprojects.be",
     "slug": "greenbuilding-projects",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 801,
     "timeDay": 671,
@@ -241,6 +241,7 @@
     "timeMonth": 758,
     "timeYear": 779,
     "dailyMinutesDown": {
+      "2022-08-23": 3,
       "2022-03-02": 29,
       "2021-10-28": 19
     }
@@ -430,9 +431,9 @@
     "slug": "segway-brugge",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 2309,
     "timeDay": 1295,
@@ -440,7 +441,6 @@
     "timeMonth": 1829,
     "timeYear": 2190,
     "dailyMinutesDown": {
-      "2022-08-23": 14,
       "2021-12-14": 143,
       "2021-10-04": 97
     }
