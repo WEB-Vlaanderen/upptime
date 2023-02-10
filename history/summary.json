@@ -201,18 +201,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.greenbuildingprojects.be.ico",
     "slug": "greenbuilding-projects",
     "status": "up",
-    "uptime": "98.83%",
+    "uptime": "98.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.58%",
-    "uptimeYear": "97.54%",
+    "uptimeMonth": "70.37%",
+    "uptimeYear": "97.52%",
     "time": 808,
     "timeDay": 1014,
     "timeWeek": 752,
     "timeMonth": 740,
     "timeYear": 817,
     "dailyMinutesDown": {
-      "2023-02-09": 1407,
+      "2023-02-10": 58,
+      "2023-02-09": 1440,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
@@ -339,8 +340,7 @@
       "2023-01-25": 34,
       "2023-01-11": 21,
       "2022-11-04": 57,
-      "2022-02-11": 42,
-      "2022-02-10": 18
+      "2022-02-11": 42
     }
   },
   {
