@@ -1,7 +1,7 @@
 url: https://www.stkg.be
-status: up
-code: 200
-responseTime: 942
-lastUpdated: 2023-03-01T23:19:13.643Z
+status: down
+code: 503
+responseTime: 636
+lastUpdated: 2023-03-02T13:37:04.155Z
 startTime: Thu Dec 31 2020 17:21:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
