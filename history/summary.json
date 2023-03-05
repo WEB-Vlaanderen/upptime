@@ -52,10 +52,10 @@
     "url": "https://www.albert-vastgoed.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.albert-vastgoed.be.ico",
     "slug": "albert-vastgoed",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.58%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 1428,
@@ -64,6 +64,7 @@
     "timeMonth": 1936,
     "timeYear": 1455,
     "dailyMinutesDown": {
+      "2023-03-05": 3,
       "2023-03-04": 42,
       "2023-01-25": 130,
       "2022-11-25": 21,
@@ -201,8 +202,8 @@
     "status": "up",
     "uptime": "96.07%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "23.15%",
-    "uptimeMonth": "13.28%",
+    "uptimeWeek": "23.31%",
+    "uptimeMonth": "13.32%",
     "uptimeYear": "91.46%",
     "time": 808,
     "timeDay": 1343,
@@ -455,10 +456,10 @@
     "url": "https://www.hipporevue.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.hipporevue.be.ico",
     "slug": "hippo-revue",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 708,
@@ -467,6 +468,7 @@
     "timeMonth": 680,
     "timeYear": 703,
     "dailyMinutesDown": {
+      "2023-03-05": 1,
       "2023-02-19": 17
     }
   },
@@ -716,9 +718,9 @@
     "slug": "nslv",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "85.33%",
-    "uptimeWeek": "91.91%",
-    "uptimeMonth": "91.60%",
+    "uptimeDay": "86.14%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "91.63%",
     "uptimeYear": "98.87%",
     "time": 1445,
     "timeDay": 2753,
@@ -726,7 +728,7 @@
     "timeMonth": 2924,
     "timeYear": 1432,
     "dailyMinutesDown": {
-      "2023-03-05": 206,
+      "2023-03-05": 194,
       "2023-03-04": 130,
       "2023-03-03": 231,
       "2023-03-02": 76,
@@ -764,7 +766,8 @@
       "2023-01-25": 129,
       "2023-01-23": 105,
       "2023-01-22": 82,
-      "2023-01-21": 20
+      "2023-01-21": 20,
+      "2023-01-20": 50
     }
   },
   {
