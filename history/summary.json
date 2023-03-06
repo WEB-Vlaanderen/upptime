@@ -59,7 +59,7 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.93%",
     "time": 1430,
-    "timeDay": 1846,
+    "timeDay": 1728,
     "timeWeek": 1987,
     "timeMonth": 1928,
     "timeYear": 1457,
@@ -145,8 +145,7 @@
       "2022-10-09": 23,
       "2022-07-09": 18,
       "2022-03-17": 44,
-      "2022-03-07": 94,
-      "2022-03-06": 3
+      "2022-03-07": 94
     }
   },
   {
@@ -201,8 +200,8 @@
     "status": "up",
     "uptime": "96.06%",
     "uptimeDay": "97.26%",
-    "uptimeWeek": "25.15%",
-    "uptimeMonth": "13.74%",
+    "uptimeWeek": "25.99%",
+    "uptimeMonth": "13.94%",
     "uptimeYear": "91.45%",
     "time": 807,
     "timeDay": 760,
@@ -717,7 +716,7 @@
     "slug": "nslv",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "81.81%",
+    "uptimeDay": "86.25%",
     "uptimeWeek": "91.41%",
     "uptimeMonth": "91.49%",
     "uptimeYear": "98.86%",
