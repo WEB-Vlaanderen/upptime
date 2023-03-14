@@ -216,7 +216,7 @@
     "uptime": "96.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
-    "uptimeMonth": "40.05%",
+    "uptimeMonth": "40.19%",
     "uptimeYear": "91.44%",
     "time": 814,
     "timeDay": 616,
@@ -779,18 +779,19 @@
     "url": "https://www.nlsv.be",
     "icon": "https://icons.duckduckgo.com/ip3/www.nlsv.be.ico",
     "slug": "nslv",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "80.39%",
-    "uptimeWeek": "88.54%",
+    "uptimeDay": "84.69%",
+    "uptimeWeek": "88.53%",
     "uptimeMonth": "91.04%",
-    "uptimeYear": "99.00%",
-    "time": 1526,
+    "uptimeYear": "99.01%",
+    "time": 1527,
     "timeDay": 3687,
     "timeWeek": 2118,
     "timeMonth": 2302,
     "timeYear": 1541,
     "dailyMinutesDown": {
+      "2023-03-14": 2,
       "2023-03-13": 332,
       "2023-03-12": 274,
       "2023-03-11": 210,
@@ -822,7 +823,7 @@
       "2023-02-09": 116,
       "2023-02-08": 268,
       "2023-02-07": 435,
-      "2023-02-06": 56
+      "2023-02-06": 6
     }
   },
   {
