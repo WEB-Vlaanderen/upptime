@@ -1,7 +1,7 @@
 url: https://www.hydra-gent.be
-status: up
-code: 200
-responseTime: 562
-lastUpdated: 2023-08-05T23:14:12.209Z
+status: down
+code: 503
+responseTime: 1937
+lastUpdated: 2023-08-06T05:13:52.758Z
 startTime: Wed Dec 30 2020 14:37:24 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
