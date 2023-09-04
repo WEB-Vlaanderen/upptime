@@ -1,7 +1,7 @@
 url: https://www.ctwlk.eu
-status: up
-code: 200
-responseTime: 2273
-lastUpdated: 2023-09-03T23:14:16.140Z
+status: down
+code: 503
+responseTime: 575
+lastUpdated: 2023-09-04T08:21:48.190Z
 startTime: 2020-12-30T14:22:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
