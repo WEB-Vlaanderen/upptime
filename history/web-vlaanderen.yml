@@ -1,7 +1,7 @@
 url: https://www.web.vlaanderen
-status: up
-code: 200
-responseTime: 961
-lastUpdated: 2023-09-15T23:14:00.724Z
+status: down
+code: 500
+responseTime: 1018
+lastUpdated: 2023-09-16T01:41:03.813Z
 startTime: 2020-12-30T13:38:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
