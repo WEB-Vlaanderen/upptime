@@ -1,7 +1,7 @@
 url: https://www.segway-brugge.be
-status: up
-code: 200
-responseTime: 2443
-lastUpdated: 2023-11-27T23:16:31.768Z
+status: down
+code: 503
+responseTime: 1033
+lastUpdated: 2023-11-28T08:56:50.712Z
 startTime: 2020-12-30T14:37:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
